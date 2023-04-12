@@ -1,0 +1,24 @@
+	     Hello there fellow user
+	        my name is Pinky!
+  i'll explain a few things about this game.
+	         Are you Ready??
+
+	 The Gameplay itself is simple
+You just have to type the words that displayed
+	      as FAST as you can
+
+	 You can't just be fast but you
+   have to be precise with your typing too
+	since your score and typing speed
+ will be calculated based on the right answer
+
+  This is how your speed will be calculated
+	   ============================
+	   |(SCORE/((PLAY_TIME/60)*5))|
+	   ============================
+	 You can change the play time at
+   the "SET TIME" menu on main menu screen
+	You can also cutom the words in
+	       the "LIBRARY" menu
+
+	
